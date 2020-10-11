@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>McCall&#39;s Blob</title>
+    <title>McCall 的博客</title>
     <link>wh2887.github.io/</link>
-    <description>Recent content on McCall&#39;s Blob</description>
+    <description>Recent content on McCall 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>zh-cn</language>
     <lastBuildDate>Sun, 11 Oct 2020 15:06:26 +0800</lastBuildDate><atom:link href="wh2887.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -118,37 +118,6 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>wh2887.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>wh2887.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>wh2887.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>wh2887.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>wh2887.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>wh2887.github.io/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
-    </item>
-    
-    <item>
       <title>First snippet</title>
       <link>wh2887.github.io/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -156,24 +125,6 @@ Setup Some fun facts about Hugo:
       <guid>wh2887.github.io/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>wh2887.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>wh2887.github.io/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>wh2887.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>wh2887.github.io/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
     <item>
@@ -187,12 +138,43 @@ ls -la </description>
     </item>
     
     <item>
-      <title>Sobre Hugo</title>
+      <title>关于</title>
       <link>wh2887.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>wh2887.github.io/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description>打算做的板块   留言
+  打赏
+  友链
+  博客统计 | 浏览统计 | 评论数 | 等等&amp;hellip;
+  感谢您的观看!</description>
+    </item>
+    
+    <item>
+      <title>相册展示区</title>
+      <link>wh2887.github.io/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>wh2887.github.io/photos/</guid>
+      <description>相册专区,未完待续.</description>
+    </item>
+    
+    <item>
+      <title>笔记</title>
+      <link>wh2887.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>wh2887.github.io/notes/</guid>
+      <description>笔记板块，未完待续！</description>
+    </item>
+    
+    <item>
+      <title>项目展示区</title>
+      <link>wh2887.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>wh2887.github.io/projects/</guid>
+      <description>项目未添加，尽情期待!</description>
     </item>
     
   </channel>

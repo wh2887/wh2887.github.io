@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Theme on McCall&#39;s Blob</title>
+    <title>Theme on McCall 的博客</title>
     <link>wh2887.github.io/series/theme/</link>
-    <description>Recent content in Theme on McCall&#39;s Blob</description>
+    <description>Recent content in Theme on McCall 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
+    <language>zh-cn</language>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="wh2887.github.io/series/theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Twemoji Support 🤩</title>
