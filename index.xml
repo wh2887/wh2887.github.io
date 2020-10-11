@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人网站</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2020 15:06:26 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 11 Oct 2020 15:06:26 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>第一篇博客 我是 McCall, 希望以后我可以坚持写好博客！</description>
+    </item>
+    
+  </channel>
+</rss>
